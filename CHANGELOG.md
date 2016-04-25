@@ -1,5 +1,8 @@
 # CHANGELOG
 
+## 3.18.1.1 - 2016-04-25
+* 'Api\PayloadParserTrait' check and skip empty string to json_decode
+
 ## 3.18.1 - 2016-04-21
 
 * `Aws\Acm` - Added support for tagging.
